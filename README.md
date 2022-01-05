@@ -13,8 +13,6 @@
 
 - 📝 I regularly write articles on [https://cmwilson132.medium.com/](https://cmwilson132.medium.com/)
 
-- 💬 Ask me about **React and Ruby on Rails.**
-
 - 📫 How to reach me **cmwilson132@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1gTFKaud5AYpaq3chZgH9CuRNHdV7ZMekGSYylEcqFYg/edit?usp=sharing](https://docs.google.com/document/d/1gTFKaud5AYpaq3chZgH9CuRNHdV7ZMekGSYylEcqFYg/edit?usp=sharing)
