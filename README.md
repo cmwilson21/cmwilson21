@@ -1,11 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Courtney</h1>
-<h3 align="center">A passionate software engineer from Tennessee. <br> Major League Hacking Fellow working with the GitHub Docs team. <br> Open Source Contributor.</h3>
+<h3 align="center">A passionate software engineer from Tennessee. <br> Major League Hacking Fellow working with the GitHub Docs team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmwilson21&label=Profile%20views&color=0e75b6&style=flat" alt="cmwilson21" /> </p>
 
 - 🔭 I’m currently working on [Dusty Shoes Travel List](https://github.com/cmwilson21/dusty-shoes-client)
+
+- ⌨️ Open Source Contributor.
 
 - 🌱 I’m learning **Redux, Jest, and TypeScript. Mobile development to follow!**
 
