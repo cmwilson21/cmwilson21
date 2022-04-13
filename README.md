@@ -11,8 +11,6 @@
 
 - 🌱 I’m learning **Redux, Jest, and TypeScript. Mobile development to follow!**
 
-- 👯 I’m looking to collaborate on **projects that solve problems.**
-
 - 📝 I regularly write articles on [https://cmwilson132.medium.com/](https://cmwilson132.medium.com/)
 
 - 📫 How to reach me **cmwilson132@gmail.com**
