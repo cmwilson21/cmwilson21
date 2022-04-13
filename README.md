@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **cmwilson132@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1gTFKaud5AYpaq3chZgH9CuRNHdV7ZMekGSYylEcqFYg/edit?usp=sharing](https://docs.google.com/document/d/1gTFKaud5AYpaq3chZgH9CuRNHdV7ZMekGSYylEcqFYg/edit?usp=sharing)
+- 📄 [Resume](https://docs.google.com/document/d/1gTFKaud5AYpaq3chZgH9CuRNHdV7ZMekGSYylEcqFYg/edit?usp=sharing)
 
 - ⚡ Fun fact **I'm a little bit geek**
 
