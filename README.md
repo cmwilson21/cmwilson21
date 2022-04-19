@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmwilson21&label=Profile%20views&color=0e75b6&style=flat" alt="cmwilson21" /> </p>
 
-- 🔭 I’m currently working on [Dusty Shoes Travel List](https://github.com/cmwilson21/dusty-shoes-client) - a travel bucketlist tracker. And [Hear All About It](https://github.com/cmwilson21/hear-all-about-it) - a news aggregator.
+- 🔭 I’m currently working on [Dusty Shoes Travel List](https://github.com/cmwilson21/dusty-shoes-client) - a travel bucketlist tracker.
+- [Hear All About It](https://github.com/cmwilson21/hear-all-about-it) - a news aggregator.
+- [Headlines Up](https://github.com/cmwilson21/headlines-up) - a game where you guess which headline was written by which news source. **Very early work in progress**
 
 - ⌨️ Open Source Contributor.
 
