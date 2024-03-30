@@ -11,7 +11,7 @@
 
 - ⌨️ Open Source Contributor.
 
-- 🌱 I’m learning **Redux, Jest, and TypeScript. Mobile development to follow!**
+- 🌱 I’m learning **Redux, Jest, and TypeScript.**
 
 
 
