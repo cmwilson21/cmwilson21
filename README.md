@@ -12,10 +12,10 @@
   * [Hear All About It](https://github.com/cmwilson21/hear-all-about-it) - a news aggregator.
   * [Headlines Up](https://github.com/cmwilson21/headlines-up) - a game where you guess which headline was written by which news source. **Very early work in progress**
 
-- ⌨️ Open Source Contributor.
+- ⌨️ Open Source Contributor. 
   - [GitHub Docs](https://github.com/github/docs/pulls?q=is%3Apr+author%3Acmwilson21) 
 
-- 🌱 I’m learning **Redux, Jest, and TypeScript.**
+- 💻 Current Interests: **Redux, Jest, and TypeScript.**
 
 
 <!-- <h3 align="left">Connect with me:</h3>
