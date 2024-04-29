@@ -8,9 +8,9 @@
 
 
 - 🔭 I’m currently working on - 
-  * [Dusty Shoes Travel List](https://github.com/cmwilson21/dusty-shoes-client) - a travel bucketlist tracker.
-  * [Hear All About It](https://github.com/cmwilson21/hear-all-about-it) - a news aggregator.
-  * [Headlines Up](https://github.com/cmwilson21/headlines-up) - a game where you guess which headline was written by which news source. **Very early work in progress**
+  * [Dusty Shoes Travel List](https://github.com/cmwilson21/dusty-shoes-client) - a travel bucketlist tracker using **React**, **Redux**, and **Rails**.
+  * [Hear All About It](https://github.com/cmwilson21/hear-all-about-it) - a news aggregator with **React**.
+  * [Headlines Up](https://github.com/cmwilson21/headlines-up) - a game where you guess which headline was written by which news source. **Express**, **React**, **Redux**. 
 
 - ⌨️ Open Source Contributor. 
   - [GitHub Docs](https://github.com/github/docs/pulls?q=is%3Apr+author%3Acmwilson21) 
