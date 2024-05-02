@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cmwilson21&label=Profile%20views&color=0e75b6&style=flat" alt="cmwilson21" /> </p>
 
-<p>I’m a frontend-focused full-stack software engineer (React, Ruby on Rails, Redux, Next.js) with extensive experience engaging with users. I specialize in bridging the gap between backend functionality and frontend aesthetics. My current interest and explorations involve TypeScript and testing methodologies. I’m committed to delivering robust and user-friendly software solutions. Formerly a Community Support Specialist for GitHub Docs OS, I bring extensive experience in user engagement and problem-solving to every project.</p>
+<p>I’m a frontend-focused full-stack software engineer (React, Ruby on Rails, Redux, Next.js) with extensive experience engaging with users. I specialize in bridging the gap between backend functionality and frontend aesthetics. My current interest and explorations involve TypeScript, Express, and various testing methodologies. I’m committed to delivering robust and user-friendly software solutions. Formerly a Community Support Specialist for GitHub Docs OS, I bring extensive experience in user engagement and problem-solving to every project.</p>
 
 
 - 🔭 I’m currently working on - 
